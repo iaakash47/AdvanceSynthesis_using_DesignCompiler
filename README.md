@@ -278,5 +278,13 @@ report_timing_REGC_reg/D
 ![en_128_sch](https://user-images.githubusercontent.com/88897605/179356699-2c2de05c-8782-4790-88f8-303954c96cdd.png)
 
 
+# Contributor
+Aakash.K</br>
+Contact:iaakashkrish@gmail.com</br>
+
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+
+# Acknowledgments
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 
 
